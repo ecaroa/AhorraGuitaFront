@@ -28,6 +28,19 @@
   color: #61dafb;
 }
 
+.login-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 50px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(219, 123, 123, 0.1);
+}
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
